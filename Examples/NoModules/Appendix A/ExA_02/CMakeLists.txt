@@ -1,0 +1,1 @@
+add_executable(exa_02 ExA_02.cpp)
