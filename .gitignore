@@ -1,2 +1,10 @@
+.idea
 .vs
+.vscode
+bin
+build
+Testing/
+cmake-build-debug/
+gcm.cache/
+a.out
 out

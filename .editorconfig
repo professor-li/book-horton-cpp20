@@ -1,0 +1,12 @@
+# enforce formatting policy
+# need vscode extension `EditorConfig for VS Code` by `editorconfig`
+root = true
+
+[*]
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.{h,cc,cpp,cppm,inl}]
+indent_style = space
+indent_size = 4
