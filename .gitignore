@@ -3,6 +3,7 @@
 .vscode
 bin
 build
+Debug/
 Testing/
 cmake-build-debug/
 gcm.cache/
